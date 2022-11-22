@@ -9,3 +9,5 @@ LaJhggHEdq5yKkPJdBXLMoAubyHwAB4ttD
 
 Lysozyme Chicken LYSC_CHICK P00698
 Lysozyme Human LYSC_HUMAN P61626
+t
+this is clearly a mistake
