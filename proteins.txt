@@ -3,3 +3,5 @@ Lysozyme Human LYSC_HUMAN P61626
 Hemoglobin-alpha Human HBA_HUMAN P69905
 Hemoglobin-beta Human HBB_HUMAN P68871
 LaJhggHEdq5yKkPJdBXLMoAubyHwAB4ttD
+added protein lengths
+added another thing to the file
